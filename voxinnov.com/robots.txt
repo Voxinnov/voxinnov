@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /application/
+Disallow: /system/
+Disallow: /.tools/
+
+Sitemap: https://voxinnov.com/sitemap.xml
